@@ -1,1 +1,1 @@
-# seience-mu.github.io
+# science-mu.github.io
